@@ -1,0 +1,6 @@
+messages:
+  warped:
+    message:
+      enabled: true
+      value:
+        - "&a&l[!] &aYou have warped to %warp%"

@@ -1,0 +1,20 @@
+warp-menu:
+  title: "&8Warps"
+  rows: 1
+  borders:
+    "gray":
+      material: "GRAY_STAINED_GLASS_PANE"
+      name: " "
+      lore: [ ]
+      slots:
+        - "0-53"
+  warps:
+    "spawn":
+      slot: 0
+      item:
+        material: "DIAMOND"
+        enchanted: true
+        name: "&b&lWarp Spawn"
+        lore:
+          - "&7"
+          - "&bWarp"

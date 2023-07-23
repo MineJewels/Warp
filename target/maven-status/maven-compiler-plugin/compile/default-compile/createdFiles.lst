@@ -1,0 +1,5 @@
+org\minejewels\realmwarps\RealmWarps.class
+org\minejewels\realmwarps\command\WarpCommand.class
+org\minejewels\realmwarps\menu\WarpMenu.class
+org\minejewels\realmwarps\warp\Warp.class
+org\minejewels\realmwarps\warp\registry\WarpRegistry.class
